@@ -17,9 +17,8 @@ SHARE: Summarized insights and visual findings
 ACT: Proposed data‑driven recommendations
 
 📄 Project Files
-Bellabeat_Case_Study.pdf – Full case study report
+Bellabeat_Case_Study.pdf – [Bellabeat Case Study.pdf](https://github.com/user-attachments/files/28657875/Bellabeat.Case.Study.pdf)
 
-(Optional) Notebook.ipynb – Technical analysis (if added later)
 
 🎯 Key Insights
 Activity levels vary significantly by weekday
